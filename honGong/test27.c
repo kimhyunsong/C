@@ -2,7 +2,7 @@
 
 void assign(void);
 
-int main(void) {
+int test28(void) {
 	auto int a = 0;
 	assign();
 	printf("main ÇÔ¼ö a: %d\n", a);
