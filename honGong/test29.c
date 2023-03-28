@@ -3,7 +3,7 @@
 void auto_func(void);
 void static_func(void);
 
-int main(void) {
+int test30(void) {
 	int i;
 	printf("일반 지역 변수(auto)를 사용한 함수 ...\n");
 	for (i = 0; i < 3; i++) {

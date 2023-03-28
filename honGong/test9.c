@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
+/*
 int sum(int x, int y);
 int get_num(void);
 int test10(void) {
@@ -26,3 +27,4 @@ int get_num(void) {
 	scanf("%d", &num);
 	return num;
 }
+*/

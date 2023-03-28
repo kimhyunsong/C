@@ -1,4 +1,3 @@
-﻿  test28.c
-  test29.c
-  코드를 생성하고 있습니다...
+﻿  test32.c
+C:\Users\ssong\Desktop\C\honGong\test32.c(14): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
   honGong.vcxproj -> C:\Users\ssong\Desktop\C\honGong\Debug\honGong.exe

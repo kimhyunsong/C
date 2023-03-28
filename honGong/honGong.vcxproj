@@ -165,6 +165,9 @@
     <ClCompile Include="test28.c" />
     <ClCompile Include="test29.c" />
     <ClCompile Include="test3.c" />
+    <ClCompile Include="test30.c" />
+    <ClCompile Include="test31.c" />
+    <ClCompile Include="test32.c" />
     <ClCompile Include="test4.c" />
     <ClCompile Include="test5.c" />
     <ClCompile Include="test6.c" />
