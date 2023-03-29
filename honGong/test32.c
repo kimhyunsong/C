@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int* sum(int a, int b);
-int main(void) {
+int test33(void) {
 	int* resp;
 	resp = sum(30, 50); // = &res;
 	printf("두 정수의 합 : %d", *resp);
