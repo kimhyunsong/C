@@ -170,7 +170,12 @@
     <ClCompile Include="test32.c" />
     <ClCompile Include="test34.c" />
     <ClCompile Include="test36.c" />
+    <ClCompile Include="test37.c" />
+    <ClCompile Include="test38.c" />
+    <ClCompile Include="test39.c" />
     <ClCompile Include="test4.c" />
+    <ClCompile Include="test40.c" />
+    <ClCompile Include="test41.c" />
     <ClCompile Include="test5.c" />
     <ClCompile Include="test6.c" />
     <ClCompile Include="test7.c" />

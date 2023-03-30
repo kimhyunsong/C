@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void) {
+int test37(void) {
 	int num[3][4] = {
 		{1, 2, 3, 4},
 		{5, 6, 7, 8},

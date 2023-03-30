@@ -120,5 +120,20 @@
     <ClCompile Include="test36.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test37.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test38.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test40.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test39.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test41.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
