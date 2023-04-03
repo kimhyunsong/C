@@ -1,2 +1,8 @@
-﻿  test41.c
+﻿  test42.c
+C:\Users\ssong\Desktop\C\honGong\test42.c(13,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\ssong\Desktop\C\honGong\test42.c(14,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ssong\Desktop\C\honGong\test42.c(14,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int **'입니다.
+C:\Users\ssong\Desktop\C\honGong\test42.c(15,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\ssong\Desktop\C\honGong\test42.c(15,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int ***'입니다.
+C:\Users\ssong\Desktop\C\honGong\test42.c(15,9): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
   honGong.vcxproj -> C:\Users\ssong\Desktop\C\honGong\Debug\honGong.exe

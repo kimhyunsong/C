@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int test42() {
 	int ary1[4] = { 1, 2, 3, 4 };
 	int ary2[4] = { 11, 12, 13, 14 };
 	int ary3[5] = { 21, 22, 23, 24, 25 };
