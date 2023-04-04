@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int test43(void) {
 	int a = 10; // int 형 변수의 선언과 초기화
 	int* pi; // 포인터 선언
 	int** ppi; // 이중 포인터 선언
