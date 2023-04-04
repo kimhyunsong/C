@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int test47(void) {
 	int ary[3][4] = { {1,2,3,4},{5,6,7,8},{9,10,11,12} };
 	int(*pa)[4]; // int 형 변수 4개의 배열을 가리키는 포인터
 	int i, j;
