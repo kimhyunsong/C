@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int test50(void) {
 	int a = 10;
 	double b = 3.5;
 	void* vp; // 가리키는 자료형이 결정되지 않음

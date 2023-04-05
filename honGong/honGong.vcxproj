@@ -185,6 +185,12 @@
     <ClCompile Include="test48.c" />
     <ClCompile Include="test49.c" />
     <ClCompile Include="test5.c" />
+    <ClCompile Include="test50.c" />
+    <ClCompile Include="test51.c" />
+    <ClCompile Include="test52.c" />
+    <ClCompile Include="test53.c" />
+    <ClCompile Include="test54.c" />
+    <ClCompile Include="test55.c" />
     <ClCompile Include="test6.c" />
     <ClCompile Include="test7.c" />
     <ClCompile Include="test8.c" />

@@ -159,5 +159,23 @@
     <ClCompile Include="test49.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test50.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test51.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test52.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test53.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test54.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test55.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
