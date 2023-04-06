@@ -177,5 +177,20 @@
     <ClCompile Include="test55.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test56.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test57.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test58.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test59.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test60.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
