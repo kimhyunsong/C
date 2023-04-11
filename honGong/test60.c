@@ -8,7 +8,7 @@ struct vision {
 
 struct vision exchange(struct vision robot);
 
-int main(void) {
+int test61(void) {
 	struct vision robot;
 	printf("시력 입력:");
 	scanf("%lf%lf", &(robot.left), &(robot.right));
