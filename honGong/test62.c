@@ -1,3 +1,4 @@
+/*
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -10,7 +11,7 @@ int run();
 void choice(int, int, int);
 int answer = 0x7fffffff;
 
-int main(void) {
+int test64(void) {
 	scanf("%d", &n);
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
@@ -70,3 +71,4 @@ int findIntensity() {
 	if (morning_time - night_time < 0) return -(morning_time - night_time);
 	return morning_time - night_time;
 }
+*/

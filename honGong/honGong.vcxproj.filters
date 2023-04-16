@@ -198,5 +198,29 @@
     <ClCompile Include="test62.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test63.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test64.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test66.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Hotter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test67.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test68.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test69.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test70.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

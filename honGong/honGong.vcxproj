@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -142,6 +142,7 @@
     <ClCompile Include="honGong.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
+    <ClCompile Include="Hotter.cpp" />
     <ClCompile Include="test.c" />
     <ClCompile Include="test10.c" />
     <ClCompile Include="test11.c" />
@@ -199,7 +200,14 @@
     <ClCompile Include="test60.c" />
     <ClCompile Include="test61.c" />
     <ClCompile Include="test62.c" />
+    <ClCompile Include="test63.c" />
+    <ClCompile Include="test64.c" />
+    <ClCompile Include="test66.c" />
+    <ClCompile Include="test67.cpp" />
+    <ClCompile Include="test68.cpp" />
+    <ClCompile Include="test69.cpp" />
     <ClCompile Include="test7.c" />
+    <ClCompile Include="test70.cpp" />
     <ClCompile Include="test8.c" />
     <ClCompile Include="test9.c" />
   </ItemGroup>
